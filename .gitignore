@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SAS/SaSApp/.vs/SaSApp/v14
+/SAS/SaSApp/SaSApp/bin/Debug
+/SAS/SaSApp/SaSApp/obj/Debug
